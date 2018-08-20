@@ -7,11 +7,13 @@
     position:relative; left:250px; top: 275px; width: 100%; font-size: 25px; text-align: center;;word-spacing: 10px; line-height: 25px;
 }
 .p1{
-    color: #4ed4b9;font-weight: 700;
+    color: #4ed4b9;
+    font-weight: 700;
 }
 .p2
 {
-    color: #26c853;font-weight: 700;
+    color: #26c853;
+    font-weight: 700;
 }
 .octopus-body__rate{background:rgba(255,255,255,.2);position:absolute;left:-38px;top:10px;height:19px;width:32px;border-radius:4px;padding-top:1px;padding-left:1px}
 .octopus-body__rate,.octopus-body__tbc{transition:background-color .2s ease-out}
