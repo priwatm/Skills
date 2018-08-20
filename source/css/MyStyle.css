@@ -1,4 +1,4 @@
-.octopus-body{position:relative;width:1400px;height: 800px;margin:20px; }
+.octopus-body{position:relative;width:1400px;height: 800px;margin:20px;right: 100px }
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
 
