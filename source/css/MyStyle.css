@@ -1,8 +1,18 @@
-.octopus-body{position:relative;width:1000px;height: 400px;margin-top: 100px}
+.octopus-body{position:relative;width:1400px;height: 800px;margin:20px; }
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
 
-
+.text-octopus
+{
+    position:relative; left:250px; top: 275px; width: 100%; font-size: 25px; text-align: center;;word-spacing: 10px; line-height: 25px;
+}
+.p1{
+    color: #4ed4b9;font-weight: 700;
+}
+.p2
+{
+    color: #26c853;font-weight: 700;
+}
 .octopus-body__rate{background:rgba(255,255,255,.2);position:absolute;left:-38px;top:10px;height:19px;width:32px;border-radius:4px;padding-top:1px;padding-left:1px}
 .octopus-body__rate,.octopus-body__tbc{transition:background-color .2s ease-out}
 
@@ -69,7 +79,7 @@
 {
     transform: translate(-150px, 0px)
 }
-.octopus-body__front{position:absolute;top:0;right:0;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0);height:200px;width:816px}
+.octopus-body__front{position:absolute;top:150px;right:50px;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0);height:200px;width:816px}
 .octopus-body__front:hover.octopus-body__eye:before{box-shadow:0 2px 4px 0 rgba(0,0,0,.15)}
 .octopus-body__eye{position:absolute;right:40%;top:22%;left: 55%; border-color: rgba(255, 255, 255, 0.2);}
 .octopus-body__eye{transition:background-color .2s ease-out}
