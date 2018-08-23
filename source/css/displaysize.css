@@ -2,7 +2,7 @@
 @media only screen and (max-width : 992px) {
     .wrapper  {
         min-width: 800px;
-	max-width: 940px;
+	max-width: 1400px;
     }
     .header {
         background: #a1ece5;
@@ -71,6 +71,7 @@
 @media only screen and (max-width : 480px) {
     .wrapper  {
         width: 320px;
+        right: 5px;
     }
     .header {
         background: #3dfff2;
