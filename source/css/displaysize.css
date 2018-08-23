@@ -1,7 +1,8 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
     .wrapper  {
-        width: 750px;
+        min-width: 800px;
+	max-width: 940px;
     }
     .header {
         background: #a1ece5;
@@ -24,7 +25,8 @@
 /* Small Devices, Tablets */
 /* @media only screen and (max-width : 768px) { */
     .wrapper  {
-        width: 450px;
+        min-width: 800px;
+	max-width: 940px;
     }
     .header {
         background: #86ebff;
