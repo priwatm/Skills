@@ -71,7 +71,6 @@
 @media only screen and (max-width : 480px) {
     .wrapper  {
         width: 320px;
-        margin-right: 10px;
     }
     .header {
         background: #3dfff2;
@@ -87,4 +86,9 @@
     .footer {
         background: #6d6e6d;
     }
+.octopus-body__front
+{
+    margin-right: 5px;
+}
+
 }
