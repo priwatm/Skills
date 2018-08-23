@@ -1,11 +1,8 @@
 
-@font-face{
-  font-family: 'PTSans';
-  src:  url('font/10183.ttf');
-}
 .octopus-body
 {
-    font-family:PTSans;
+    
+    font-variant:small-caps;
 }
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
@@ -30,7 +27,7 @@
 
 .ItemFuture
 {
-    font-size: 12px;
+    font-size: 13px;
     margin-top: 12px;
     margin-left: 20px;
     float: left;
@@ -38,12 +35,11 @@
 }
 .ItemNow
 {
-    font-size: 12px;
+    font-size: 13px;
     margin-top: 12px;
     margin-right: 2px;
    float: right;
-    
-    
+
 }
 
 
@@ -62,13 +58,9 @@
 
 
 
-.octopus-body__tentacles,.editable__input{font-weight:700;font-size: 20; color: #343535; text-align:left;}
 
 
 
-.octopus-body__tentacles,.editable__textput{ width:90%;font-weight:700;font-size: 20; white-space: nowrap; border:1px solid transparent; background-color:rgb(255,255,255,0); color: #343535; text-align:right; }
-
-.editable__textput{ width:90%;font-weight:700;font-size: 20; white-space: nowrap; border:1px solid transparent; background-color:rgb(255,255,255,0); color: #343535; text-align:right; }
 
 
 
