@@ -1,9 +1,5 @@
 
-.octopus-body
-{
-    
-    font-variant:small-caps;
-}
+
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
 
