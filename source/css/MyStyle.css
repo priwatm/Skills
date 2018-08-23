@@ -28,7 +28,7 @@
 .ItemFuture
 {
     font-size: 15px;
-    margin-top: 12px;
+    margin-top: 15px;
     margin-left: 20px;
     float: left;
 
@@ -36,7 +36,7 @@
 .ItemNow
 {
     font-size: 15px;
-    margin-top: 12px;
+    margin-top: 15px;
     margin-right: 2px;
    float: right;
 
@@ -99,7 +99,7 @@
 {
     transform: translate(-150px, 0px)
 }
-.octopus-body__front{position:absolute;top:150px;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0);height:200px;width:816px;}
+.octopus-body__front{position:absolute;top:150px;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0);height:200px;width:816px;left: 510px;}
 .octopus-body__front:hover.octopus-body__eye:before{box-shadow:0 2px 4px 0 rgba(0,0,0,.15)}
 .octopus-body__eye{position:absolute;right:40%;top:22%;left: 55%; border-color: rgba(255, 255, 255, 0.2);}
 .octopus-body__eye{transition:background-color .2s ease-out}

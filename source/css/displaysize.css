@@ -71,8 +71,7 @@
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
     .wrapper  {
-        width: 350px;
-        right: 5px;
+        width: 320px;
     }
     .header {
         background: #3dfff2;
@@ -83,9 +82,7 @@
     .sideLeft {
         background: #91b399;
     }
-    .content{
-        right: 2px;
-    }
+   
     }
     .footer {
         background: #6d6e6d;
