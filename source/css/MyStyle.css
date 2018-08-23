@@ -3,6 +3,9 @@
 {
     
     font-variant:small-caps;
+    @media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
 }
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
