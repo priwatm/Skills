@@ -72,7 +72,7 @@
 @media only screen and (max-width : 480px) {
     .wrapper  {
         width: 320px;
-        
+        right: 2px;
     }
     .header {
         background: #3dfff2;
