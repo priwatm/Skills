@@ -1,11 +1,10 @@
 
-
 .octopus-body *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 .octopus-body.disabled{pointer-events:none}
 
 .text-body
 {
-    position:relative;  top: 128px; width: 100%; font-size: 25px; text-align: center; margin-left: -30px;
+    position:relative;  top: 128px; width: 100%; font-size: 25px; text-align: center;
 }
 .color-1{
     color: #3c9eff;
