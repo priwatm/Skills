@@ -26,6 +26,7 @@
 /* @media only screen and (max-width : 768px) { */
     .wrapper  {
         width: 750px;
+        padding-right: 130px;
     }
     .header {
         background: #86ebff;
