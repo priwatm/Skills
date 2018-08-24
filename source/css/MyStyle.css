@@ -7,12 +7,12 @@
     position:relative;  top: 128px; width: 100%; font-size: 25px; text-align: center;
 }
 .color-1{
-    color: #3c9eff;
+    color: #829eb8;
     font-weight: 700;
 }
 .color-2
 {
-    color: #6D86D9;
+    color: #355a7e;
     font-weight: 700;
 }
 .octopus-body__rate{background:rgba(255,255,255,.2);position:absolute;left:-38px;top:10px;height:19px;width:32px;border-radius:4px;padding-top:1px;padding-left:1px}
@@ -26,6 +26,7 @@
     margin-top: 15px;
     margin-left: 20px;
     float: left;
+    color: white;
 
 }
 .ItemNow
@@ -34,6 +35,7 @@
     margin-top: 15px;
     margin-right: 2px;
    float: right;
+    color: white;
 
 }
 
@@ -46,7 +48,7 @@
 
 
 
-.octopus-body__head{width:320px;height:508px;left:512px;border-radius:0 285px 285px 0;border-right:1px solid hsla(0,0%,100%,.2);background-color: #3c9eff}
+.octopus-body__head{width:320px;height:508px;left:512px;border-radius:0 285px 285px 0;border-right:1px solid hsla(0,0%,100%,.2);background-color: #829eb8}
 
 
 
@@ -120,51 +122,51 @@
 {
     
     width: 327px; transform: translate(0px, 0px);
-    background: linear-gradient(to right,#6D86D9,#6D86D9,#3c9eff,#3c9eff,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#355a7e,#829eb8,#829eb8,#829eb8,#829eb8);
 }.tentacles-1
 {
     width: 327px; transform: translate(0px, 51px);
-    background: linear-gradient(to right,#6D86D9,#6D86D9,#3c9eff,#3c9eff,#3c9eff,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#355a7e,#829eb8,#829eb8,#829eb8,#829eb8,#829eb8);
 }
 .tentacles-2
 {
   width: 327px;transform: translate(0px, 102px);
-    background: linear-gradient(to right,#6D86D9,#6D86D9,#3c9eff,#3c9eff,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#355a7e,#829eb8,#829eb8,#829eb8,#829eb8);
 }
 .tentacles-3
 {
     width: 327px; transform: translate(0px, 153px);
-    background: linear-gradient(to right,#6D86D9,#6D86D9,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#355a7e,#829eb8,#829eb8);
 }
 .tentacles-4
 {
     width: 250px; transform: translate(0px, 204px);
-    background: linear-gradient(to right,#6D86D9,#3c9eff,#3c9eff,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#829eb8,#829eb8,#829eb8,#829eb8);
 }
 .tentacles-5
 {
     width: 532px; transform: translate(0px, 255px);
-    background: linear-gradient(to right,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#829eb8,#829eb8);
 }
 .tentacles-6
 {
     width: 227px; transform: translate(0px, 306px);
-    background: linear-gradient(to right,#6D86D9,#3c9eff,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#829eb8,#829eb8,#829eb8);
 }
 .tentacles-7
 {
     width: 276px; transform: translate(0px, 357px);
-    background: linear-gradient(to right,#6D86D9,#6D86D9,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#355a7e,#355a7e,#829eb8,#829eb8);
 }
 .tentacles-8
 {
     width: 378px; transform: translate(0px, 408px);
-    background: linear-gradient(to right,#EF1F27,#F53D44,#3c9eff,#3c9eff);
+    background: linear-gradient(to right,#EF1F27,#F53D44,#829eb8,#829eb8);
 }
 .tentacles-9
 {
     width: 10px; transform: translate(0px, 459px);
-    background: linear-gradient(to right,#6D86D9 ,#3c9eff);
+    background: linear-gradient(to right,#355a7e ,#829eb8);
 }
 
 
